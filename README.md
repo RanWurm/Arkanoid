@@ -2,6 +2,8 @@
 
 ## Overview
 This project is a Java-based implementation of the classic Arkanoid game, developed as part of an Object-Oriented Programming (OOP) class. The game features multiple levels with increasing difficulty, a scoring system, and various power-ups.
+## Screenshot
+![Arkanoid Game Screenshot]<img width="400" alt="Screenshot 2024-09-17 122528" src="https://github.com/user-attachments/assets/01ef31c9-e6e5-46b2-97bb-87df2ed88f97">
 
 ## Features
 - **Multiple Levels**: The game includes several levels, each with a unique layout of blocks.

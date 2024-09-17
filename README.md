@@ -26,7 +26,8 @@ javac -cp biuoop-1.4.jar;. Game.java
 java -cp biuoop-1.4.jar;. Game
 Screenshot
 
-![image](https://github.com/user-attachments/assets/0fa4d302-3423-4155-b759-5b94cfb208bf)
+<img width="400" alt="Screenshot 2024-09-17 122528" src="https://github.com/user-attachments/assets/52ff06b1-399f-4bb0-9e6d-3e5d5fb9bf5f">
+
 
 How to Contribute
 If you're interested in contributing to the Arkanoid game project, please fork the repository and submit a pull request with your suggested changes. You can also open issues for bugs you've noticed or features you think would be beneficial.
